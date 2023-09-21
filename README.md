@@ -1,6 +1,6 @@
 - 👋 Hi, my name is Chuong Vo!
 - 👀 I’m interested in Creating Automation via Powershell, Python, Javascript! 
-- 🌱 I’m currently learning Node.js, Linux, VMware.
+- 🌱 I’m currently learning Network, Linux, VMware.
 - 💞️ I’m looking to collaborate on anything that is exciting and fun while learning new skill!
 - 📫 How to reach me at vohoang2005@gmail.com! 
 - My LinkedIn: https://www.linkedin.com/in/chuonghvo/ 
